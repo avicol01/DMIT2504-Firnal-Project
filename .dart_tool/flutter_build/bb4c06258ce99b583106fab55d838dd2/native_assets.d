@@ -1,0 +1,1 @@
+ C:\\Users\\aelis\\source\\repos\\DMIT2504-Assignment-2\\.dart_tool\\flutter_build\\bb4c06258ce99b583106fab55d838dd2\\native_assets.yaml: 
