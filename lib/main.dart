@@ -1,9 +1,11 @@
 // ignore_for_file: use_key_in_widget_constructors
 
 import 'package:flutter/material.dart';
-import 'package:robbinlaw/themes/theme.dart';
+import 'package:robbinlaw/cardio.dart';
 import 'package:robbinlaw/first-page.dart';
-import 'package:robbinlaw/weights.dart';
+import 'package:robbinlaw/themes/theme.dart';
+//import 'package:robbinlaw/first-page.dart';
+import 'package:robbinlaw/weight.dart';
 
 void main() => runApp(MyApp());
 
@@ -15,9 +17,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       scaffoldMessengerKey: scaffoldMessengerKey,
-      title: 'A2 - User Input',
+      title: 'Project - Andreea Vicol',
       debugShowCheckedModeBanner: false,
-      home: Weight(),
+      home: FirstPage(),
       theme: buildTheme(),
     );
   }

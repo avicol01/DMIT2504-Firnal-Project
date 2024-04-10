@@ -1,7 +1,7 @@
 robbinlaw
 3.1
-file:///C:/FlutterDev/FlutterRepos/flutter-demos-all-main/z-assessment-start-kits/app2-user-input-begin/src23/
-file:///C:/FlutterDev/FlutterRepos/flutter-demos-all-main/z-assessment-start-kits/app2-user-input-begin/src23/lib/
+file:///C:/FlutterDev/FlutterRepos/DMIT2504-Firnal-Project/
+file:///C:/FlutterDev/FlutterRepos/DMIT2504-Firnal-Project/lib/
 sky_engine
 3.2
 file:///C:/FlutterDev/FlutterSDK/flutter/bin/cache/pkg/sky_engine/
@@ -42,6 +42,10 @@ flutter_lints
 2.19
 file:///C:/Users/aelis/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-2.0.3/
 file:///C:/Users/aelis/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-2.0.3/lib/
+intl
+3.0
+file:///C:/Users/aelis/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.19.0/
+file:///C:/Users/aelis/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.19.0/lib/
 lints
 3.0
 file:///C:/Users/aelis/AppData/Local/Pub/Cache/hosted/pub.dev/lints-2.1.1/
